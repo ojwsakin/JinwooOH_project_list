@@ -8,8 +8,14 @@
     - 팀장
     - 로그 모니터링
     - 젠킨스 파일 작성
-    
+## 프로젝트 목표
+
+- EKS로 구축한 인프라에서 **개발환경, 빌드, 배포를 자동화하는 시스템**을 구축합니다
+- **개발자들이 자유롭게 시스템을 이용**할 수 있도록 웹 콘솔을 제공합니다
+- **사용하고 있는 리소스의 정보**와 배포한 **어플리케이션의 로그 정보를 쉽게 확인** 할 수있습니다
+
 - **프로젝트 Github 링크**
+- README.md파일에 프로젝트에 대한 상세 설명을 해두었습니다
     
     [**https://github.com/ojwsakin/5KA_project.git**](https://github.com/ojwsakin/5KA_project.git)
     
@@ -26,6 +32,7 @@
     **[https://youtu.be/4SNTav1CMPk](https://youtu.be/4SNTav1CMPk)**
     
 - **프로젝트 Github 링크**
+- README.md파일에 프로젝트에 대한 상세 설명을 해두었습니다
     
     **[https://github.com/ojwsakin/docker_toy_project](https://github.com/ojwsakin/docker_toy_project)**
     
