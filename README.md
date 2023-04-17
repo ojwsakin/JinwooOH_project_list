@@ -17,7 +17,7 @@
 ### **프로젝트 Github 링크**
 - README.md파일에 프로젝트에 대한 상세 설명을 해두었습니다
     
-   https://youtu.be/4SNTav1CMPk
+
     
 
 ---
@@ -35,7 +35,7 @@
 
 ### **프로젝트 시연 영상**
     
-    [**[https://youtu.be/4SNTav1CMPk](https://youtu.be/4SNTav1CMPk)**](https://youtu.be/4SNTav1CMPk)
+   https://youtu.be/4SNTav1CMPk
     
 ### **프로젝트 Github 링크**
 - README.md파일에 프로젝트에 대한 상세 설명을 해두었습니다
