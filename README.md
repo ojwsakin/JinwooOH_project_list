@@ -26,7 +26,7 @@
 
 - **프로젝트 기간**
     - 2022.12.23 - 2022.12.26
-    
+- **개인 프로젝트**
 - **프로젝트 시연 영상**
     
     **[https://youtu.be/4SNTav1CMPk](https://youtu.be/4SNTav1CMPk)**
