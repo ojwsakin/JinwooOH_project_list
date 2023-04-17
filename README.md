@@ -33,7 +33,7 @@
 - Update방식 중 하나인 **Canary update**방식을 학습합니다
 - **모니터링**을 위하여 cAdvisor, Prometheus, Grafana를 통해 리소스 및 update과정을 확인합니다
 
-- **프로젝트 시연 영상**
+### **프로젝트 시연 영상**
     
     **[https://youtu.be/4SNTav1CMPk](https://youtu.be/4SNTav1CMPk)**
     
