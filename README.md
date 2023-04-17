@@ -37,7 +37,7 @@
     
     **[https://youtu.be/4SNTav1CMPk](https://youtu.be/4SNTav1CMPk)**
     
-- **프로젝트 Github 링크**
+### **프로젝트 Github 링크**
 - README.md파일에 프로젝트에 대한 상세 설명을 해두었습니다
     
     **[https://github.com/ojwsakin/docker_toy_project](https://github.com/ojwsakin/docker_toy_project)**
