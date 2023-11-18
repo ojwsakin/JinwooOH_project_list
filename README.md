@@ -1,4 +1,19 @@
 ##  오진우 프로젝트 리스트
+### terraform과 git action을 이용한 CI-CD pipeline 구축
+
+- **프로젝트 기간**
+    - 2023.11.09 - 진행중
+- **개인 프로젝트**
+## 프로젝트 목표
+- Git Actions를 이용해 Continuous Integration을 수행하고 AWS ECR에 Continuous Delivery를 수행합니다
+    - 이 때, Go source는 binary로 빌드하여 Container Image를 생성합니다
+- AWS ECR에 이미지가 갱신되면 AWS Lambda로 Deploy를 수행합니다
+
+### **프로젝트 Github 링크**
+- **https://github.com/ojwsakin/CI-CD-project**
+
+---
+
 ### Cloud, K8S를 이용한 개발환경 자동구축 시스템
 
 - **프로젝트 최우수상 수상**
